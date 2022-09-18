@@ -1,2 +1,6 @@
-const a = 40;
-const b = 50;
+const a = 30;
+const b = 20;
+
+console.log(a + b);
+
+const avishekk = " avishek added this ";
