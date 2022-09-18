@@ -1,0 +1,1 @@
+console("Gaming is boring coding is fun")
