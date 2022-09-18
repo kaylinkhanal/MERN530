@@ -1,6 +1,2 @@
-
-const a= 30;
-const b = 20;
-
-console.log(a+b);
-
+const a = 40;
+const b = 50;
