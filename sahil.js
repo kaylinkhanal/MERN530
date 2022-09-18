@@ -1,2 +1,1 @@
-console.log("best class ever");
-const a = 100;
+const a = 30;
