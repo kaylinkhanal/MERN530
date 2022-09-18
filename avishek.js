@@ -1,10 +1,12 @@
-console.log(" avishek hereee ")
+console.log(" avishek hereee ");
 
-const avishek = ()=> {
-    console.log (" saadasasd")
-}
-avishek()
+const avishek = () => {
+  console.log(" saadasasd");
+};
+avishek();
 
-console.log("added this just now")
+console.log("added this just now");
 
-console.log("10 51 added")
+console.log("10 51 added");
+
+const sahil = "hello addec 11:03";
